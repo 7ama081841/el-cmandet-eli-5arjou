@@ -33,13 +33,15 @@ wafa                |  d20        | 49 dt   | 27/02/2023  |
                     |             |         |             |
                     |             |         |             |
                     |             |         |             |
+-------------------------- el sel3a eli 5losna feha -------------------------------------                    
+hamidos             |  d20        | 49 dt   | 23/02/2023  |
+Ferjany sywar       |  d20        | 49 dt   | 23/02/2023  |
 -------------------------- el sel3a routur -------------------------------------                    
        el esm       |  el produit | el prix |    date     |
 najah saad          |  d20        | 49 dt   | 23/02/2023  |
 maya mekni          |  d20        | 49 dt   | 23/02/2023  |
 Raoudha             |  kid25      | 69 dt   | 24/02/2023  |
                     |             |         |             |
+-------------------------- el routur eli rja3 -------------------------------------                    
+       el esm       |  el produit | el prix |    date     |
                     |             |         |             |
--------------------------- el sel3a eli 5losna feha -------------------------------------                    
-hamidos             |  d20        | 49 dt   | 23/02/2023  |
-Ferjany sywar       |  d20        | 49 dt   | 23/02/2023  |
