@@ -5,15 +5,12 @@ jihen garraoui      |  d20        | 49 dt   | 27/02/2023  |
 imen                |  d20        | 49 dt   | 27/02/2023  |
 laila               |  d20        | 49 dt   | 27/02/2023  |
 sana nabouti        |  d20        | 49 dt   | 28/02/2023  |
-manar dhifallah     |  d20        | 49 dt   | 28/02/2023  |
 rayen               |  minbro a1  | 150 dt  | 28/02/2023  |
 Amani boubaker      |  w26 plus   | 69 dt   | 01/03/2023  |
 Raja                |  d20        | 49 dt   | 01/03/2023  |
 Ghada               |  d20        | 49 dt   | 01/03/2023  |
 Ahlem saadaoui      |  d20        | 49 dt   | 01/03/2023  |
-Sarra massoud       |  d20        | 49 dt   | 01/03/2023  |
 Manel kata          |  d20        | 49 dt   | 01/03/2023  |
-tesnim              |  d20        | 49 dt   | 01/03/2023  |
 Salem Mt            |  d20        | 49 dt   | 02/03/2023  |
 Kamssa bouzoumita   |  d20        | 49 dt   | 02/03/2023  |
 Naima Hmani         |  d20        | 49 dt   | 02/03/2023  |
@@ -31,6 +28,9 @@ sayda dhahri        |  2 d20      | 98 dt   | 27/02/2023  |
 olfa                |  d20        | 49 dt   | 27/02/2023  |
 hejer               |  d20        | 49 dt   | 27/02/2023  |
 wafa                |  d20        | 49 dt   | 27/02/2023  |
+manar dhifallah     |  d20        | 49 dt   | 28/02/2023  |
+tesnim              |  d20        | 49 dt   | 01/03/2023  |
+Sarra massoud       |  d20        | 49 dt   | 01/03/2023  |
                     |             |         |             |
                     |             |         |             |
                     |             |         |             |
