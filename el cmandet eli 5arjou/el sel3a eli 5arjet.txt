@@ -1,8 +1,6 @@
 ----------------------- el sel3a eli tba3thet ---------------------------                    
        el esm       |  el produit | el prix |     Tel     |    date     |
 yesmin dryal        |  d20        | 49 dt   |             | 27/02/2023  |
-imen                |  d20        | 49 dt   |             | 27/02/2023  |
-laila               |  d20        | 49 dt   |             | 27/02/2023  |
 sana nabouti        |  d20        | 49 dt   |             | 28/02/2023  |
 rayen               |  minbro a1  | 150 dt  |             | 28/02/2023  |
 Amani boubaker      |  w26 plus   | 69 dt   |             | 01/03/2023  |
