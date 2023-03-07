@@ -6,8 +6,8 @@ Naima Hmani         |  d20        | 49 dt   |             | 02/03/2023  |
 Chaima shili        |  d20        | 49 dt   |   28574113  | 06/03/2023  |
 naaima bouzizi      |  d20        | 49 dt   |   50915333  | 06/03/2023  |
 Kmar Ghorbel        |  2 d20      | 98 dt   |   20314604  | 06/03/2023  |
-Feryel dridi        |  2 d20      | 98 dt   |   25751251  | 06/03/2023  |
-                    |             |         |             |             |
+--------------------|----------- TPS -------|-------------|-------------|
+Marwen Ismail       |  T500       | 60 dt   |   20413519  | 08/03/2023  |
                     |             |         |             |             |
                     |             |         |             |             |
 ----------------------- el sel3a eli tbe3et -----------------------------                    
@@ -35,6 +35,12 @@ Kamssa bouzoumita   |  d20        | 49 dt   |             | 02/03/2023  |
        el esm       |  el produit | el prix |     Tel     |    date     |
 hamidos             |  d20        | 49 dt   |             | 23/02/2023  |
 Ferjany sywar       |  d20        | 49 dt   |             | 23/02/2023  |
+--------------------|----------- TPS -------|-------------|-------------|
+Feryel dridi        |  2 d20      | 98 dt   |   25751251  | 06/03/2023  |
+Ferdaws Haouach     |  2 d20      | 98 dt   |   26344601  | 06/03/2023  |
+                    |             |         |             |             |
+                    |             |         |             |             |
+                    |             |         |             |             |
 ------------------------ el sel3a routur --------------------------------                    
        el esm       |  el produit | el prix |     Tel     |    date     |
 najah saad          |  d20        | 49 dt   |             | 23/02/2023  |
@@ -48,4 +54,6 @@ Amani boubaker      |  w26 plus   | 69 dt   |             | 01/03/2023  |
                     |             |         |             |             |
 ------------------------ el routur eli rja3 -----------------------------                    
        el esm       |  el produit | el prix |     Tel     |    date     |
+                    |             |         |             |             |
+                    |             |         |             |             |
                     |             |         |             |             |
