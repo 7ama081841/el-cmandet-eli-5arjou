@@ -1,7 +1,5 @@
 ----------------------- el sel3a eli tba3thet ---------------------------                    
        el esm       |  el produit | el prix |     Tel     |    date     |
-Raja                |  d20        | 49 dt   |             | 01/03/2023  |
-Salem Mt            |  d20        | 49 dt   |             | 02/03/2023  |
 Naima Hmani         |  d20        | 49 dt   |             | 02/03/2023  |
 Chaima shili        |  d20        | 49 dt   |   28574113  | 06/03/2023  |
 naaima bouzizi      |  d20        | 49 dt   |   50915333  | 06/03/2023  |
@@ -35,25 +33,27 @@ Kamssa bouzoumita   |  d20        | 49 dt   |             | 02/03/2023  |
        el esm       |  el produit | el prix |     Tel     |    date     |
 hamidos             |  d20        | 49 dt   |             | 23/02/2023  |
 Ferjany sywar       |  d20        | 49 dt   |             | 23/02/2023  |
---------------------|----------- TPS -------|-------------|-------------|
 Feryel dridi        |  2 d20      | 98 dt   |   25751251  | 06/03/2023  |
 Ferdaws Haouach     |  2 d20      | 98 dt   |   26344601  | 06/03/2023  |
+--------------------|----------- TPS -------|-------------|-------------|
                     |             |         |             |             |
                     |             |         |             |             |
                     |             |         |             |             |
 ------------------------ el sel3a routur --------------------------------                    
        el esm       |  el produit | el prix |     Tel     |    date     |
-najah saad          |  d20        | 49 dt   |             | 23/02/2023  |
-maya mekni          |  d20        | 49 dt   |             | 23/02/2023  |
-Raoudha             |  kid25      | 69 dt   |             | 24/02/2023  |
 jihen garraoui      |  d20        | 49 dt   |             | 27/02/2023  |
-Ahlem saadaoui      |  d20        | 49 dt   |             | 01/03/2023  |
-yesmin dryal        |  d20        | 49 dt   |             | 27/02/2023  |
-sana thabouti       |  d20        | 49 dt   |             | 28/02/2023  |
 Amani boubaker      |  w26 plus   | 69 dt   |             | 01/03/2023  |
+Raja                |  d20        | 49 dt   |             | 01/03/2023  |
+Salem Mt            |  d20        | 49 dt   |             | 02/03/2023  |
                     |             |         |             |             |
 ------------------------ el routur eli rja3 -----------------------------                    
        el esm       |  el produit | el prix |     Tel     |    date     |
+sana thabouti       |  d20        | 49 dt   |             | 28/02/2023  |
+Ahlem saadaoui      |  d20        | 49 dt   |             | 01/03/2023  |
+najah saad          |  d20        | 49 dt   |             | 23/02/2023  |
+yesmin dryal        |  d20        | 49 dt   |             | 27/02/2023  |
+maya mekni          |  d20        | 49 dt   |             | 23/02/2023  |
+Raoudha             |  kid25      | 69 dt   |             | 24/02/2023  |
                     |             |         |             |             |
                     |             |         |             |             |
                     |             |         |             |             |
