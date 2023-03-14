@@ -1,31 +1,21 @@
 ----------------------- el sel3a eli tba3thet ---------------------------                    
        el esm       |  el produit | el prix |     Tel     |    date     |
 Naima Hmani         |  d20        | 49 dt   |             | 02/03/2023  |
-Chaima shili        |  d20        | 49 dt   |   28574113  | 06/03/2023  |
-naaima bouzizi      |  d20        | 49 dt   |   50915333  | 06/03/2023  |
-Kmar Ghorbel        |  2 d20      | 98 dt   |   20314604  | 06/03/2023  |
 --------------------|----------- TPS -------|-------------|-------------|
+Kmar Ghorbel        |  2 d20      | 98 dt   |   20314604  | 06/03/2023  |
+naaima bouzizi      |  d20        | 49 dt   |   50915333  | 06/03/2023  |
 Marwen Ismail       |  T500       | 60 dt   |   20413519  | 08/03/2023  |
+Asmehen             |  d20        | 49 dt   |   24361159  | 09/03/2023  |
+wissal ben mariem   |2 t55 pro max| 191 dt  |   20094093  | 14/03/2023  |
+ahmed jazi          |  kid25      | 62 dt   |   27105067  | 15/03/2023  |
                     |             |         |             |             |
                     |             |         |             |             |
------------------------ el sel3a eli tbe3et -----------------------------                    
+                    |             |         |             |             |
+                    |             |         |             |             |
+----------------------- el sel3a eli weslet -----------------------------                    
        el esm       |  el produit | el prix |     Tel     |    date     |
-Mariem trabelsi     |  d20        | 49 dt   |             | 23/02/2023  |
-Mariem              |  2 d20      | 90 dt   |             | 24/02/2023  |
-iris                |  d20        | 49 dt   |             | 24/02/2023  |
-hamadi tayari       |  kids25     | 69 dt   |             | 25/02/2023  |
-hana mekni          |  d20        | 49 dt   |             | 27/02/2023  |
-sayda dhahri        |  2 d20      | 98 dt   |             | 27/02/2023  |
-olfa                |  d20        | 49 dt   |             | 27/02/2023  |
-hejer               |  d20        | 49 dt   |             | 27/02/2023  |
-wafa                |  d20        | 49 dt   |             | 27/02/2023  |
-manar dhifallah     |  d20        | 49 dt   |             | 28/02/2023  |
-tesnim              |  d20        | 49 dt   |             | 01/03/2023  |
-Sarra massoud       |  d20        | 49 dt   |             | 01/03/2023  |
-rayen               |  minbro a1  | 150 dt  |             | 28/02/2023  |
-Manel kata          |  d20        | 49 dt   |             | 01/03/2023  |
-Ghada               |  d20        | 49 dt   |             | 01/03/2023  |
-Kamssa bouzoumita   |  d20        | 49 dt   |             | 02/03/2023  |
+--------------------|----------- TPS -------|-------------|-------------|
+Naziha              |  w26 pro mex| 99 dt   |   22515779  | 10/03/2023  |
                     |             |         |             |             |
                     |             |         |             |             |
                     |             |         |             |             |
@@ -33,10 +23,24 @@ Kamssa bouzoumita   |  d20        | 49 dt   |             | 02/03/2023  |
        el esm       |  el produit | el prix |     Tel     |    date     |
 hamidos             |  d20        | 49 dt   |             | 23/02/2023  |
 Ferjany sywar       |  d20        | 49 dt   |             | 23/02/2023  |
-Feryel dridi        |  2 d20      | 98 dt   |   25751251  | 06/03/2023  |
-Ferdaws Haouach     |  2 d20      | 98 dt   |   26344601  | 06/03/2023  |
+Mariem trabelsi     |  d20        | 49 dt   |             | 23/02/2023  |
+iris                |  d20        | 49 dt   |             | 24/02/2023  |
+Mariem              |  2 d20      | 90 dt   |             | 24/02/2023  |
+hamadi tayari       |  kids25     | 69 dt   |             | 25/02/2023  |
+hana mekni          |  d20        | 49 dt   |             | 27/02/2023  |
+sayda dhahri        |  2 d20      | 98 dt   |             | 27/02/2023  |
+olfa                |  d20        | 49 dt   |             | 27/02/2023  |
+hejer               |  d20        | 49 dt   |             | 27/02/2023  |
+wafa                |  d20        | 49 dt   |             | 27/02/2023  |
+manar dhifallah     |  d20        | 49 dt   |             | 28/02/2023  |
+rayen               |  minbro a1  | 150 dt  |             | 28/02/2023  |
+tesnim              |  d20        | 49 dt   |             | 01/03/2023  |
+Sarra massoud       |  d20        | 49 dt   |             | 01/03/2023  |
+Ghada               |  d20        | 49 dt   |             | 01/03/2023  |
+Manel kata          |  d20        | 49 dt   |             | 01/03/2023  |
+Kamssa bouzoumita   |  d20        | 49 dt   |             | 02/03/2023  |
 --------------------|----------- TPS -------|-------------|-------------|
-                    |             |         |             |             |
+Chaima shili        |  d20        | 49 dt   |   28574113  | 06/03/2023  |
                     |             |         |             |             |
                     |             |         |             |             |
 ------------------------ el sel3a routur --------------------------------                    
@@ -45,6 +49,7 @@ jihen garraoui      |  d20        | 49 dt   |             | 27/02/2023  |
 Amani boubaker      |  w26 plus   | 69 dt   |             | 01/03/2023  |
 Raja                |  d20        | 49 dt   |             | 01/03/2023  |
 Salem Mt            |  d20        | 49 dt   |             | 02/03/2023  |
+--------------------|----------- TPS -------|-------------|-------------|
                     |             |         |             |             |
 ------------------------ el routur eli rja3 -----------------------------                    
        el esm       |  el produit | el prix |     Tel     |    date     |
@@ -55,5 +60,6 @@ yesmin dryal        |  d20        | 49 dt   |             | 27/02/2023  |
 maya mekni          |  d20        | 49 dt   |             | 23/02/2023  |
 Raoudha             |  kid25      | 69 dt   |             | 24/02/2023  |
                     |             |         |             |             |
+--------------------|----------- TPS -------|-------------|-------------|
                     |             |         |             |             |
                     |             |         |             |             |
