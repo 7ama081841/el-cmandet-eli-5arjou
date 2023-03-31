@@ -1,6 +1,5 @@
 ----------------------- el sel3a eli tba3thet ---------------------------                    
        el esm       |  el produit | el prix |     Tel     |    date     |
-Naima Hmani         |  d20        | 49 dt   |             | 02/03/2023  |
 --------------------|----------- TPS -------|-------------|-------------|
 naaima bouzizi      |  d20        | 49 dt   |   50915333  | 06/03/2023  |
 Marwen Ismail       |  T500       | 60 dt   |   20413519  | 08/03/2023  |
@@ -26,6 +25,7 @@ haifa bourguiba     |  d20        | 49 dt   |   29660926  | 18/03/2023  |
                     |             |         |             |             |
 ----------------------- el sel3a eli weslet -----------------------------                    
        el esm       |  el produit | el prix |     Tel     |    date     |
+Naima Hmani         |  d20        | 49 dt   |             | 02/03/2023  |
 --------------------|----------- TPS -------|-------------|-------------|
 wissal ben mariem   |2 t55 pro max| 191 dt  |   20094093  | 14/03/2023  |
 ahmed jazi          |  kid25      | 62 dt   |   27105067  | 15/03/2023  |
