@@ -1,2 +1,3 @@
     montont    |     date      |   action    |  total montont   | montont de livrison |
      ...       |  12/06/2023   |    ...      |      129 dt      |         ...         |
+     40 dt     |  12/06/2023   |     +       |      169 dt      |          0          |
